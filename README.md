@@ -186,39 +186,6 @@ The dashboard opens at: **http://localhost:8501**
 
 ---
 
-## 🎓 MBA Viva Questions & Answers
-
-**Q1: What is NLP and how is it applied here?**
-A: NLP (Natural Language Processing) is the branch of AI that helps computers understand human text. Here, we apply it to customer reviews and social media text to extract sentiment, keywords, product mentions, and trends — automating what would take analysts weeks to do manually.
-
-**Q2: What is sentiment analysis and which approach did you use?**
-A: Sentiment analysis classifies text as positive, negative, or neutral. We used a **lexicon-based approach** — matching words to a curated list of positive/negative terms with intensifier and negator handling. This requires no training data or paid APIs.
-
-**Q3: How is "emerging" defined in your project?**
-A: A product is "emerging" if its mention frequency in the most recent 3 months is significantly higher than the prior 3 months. A growth score above 40% triggers the "Rapidly Emerging" label.
-
-**Q4: What is the business value of this project?**
-A: Companies can use this system to detect rising consumer demand before competitors, enabling early product development, optimized inventory, and targeted marketing — reducing time-to-market by weeks or months.
-
-**Q5: What is the difference between lemmatization and stemming?**
-A: Stemming crudely cuts word endings ("running" → "run", but "better" → "better"). Lemmatization maps words to their root dictionary form ("better" → "good", "running" → "run"). We use rule-based lemmatization for efficiency.
-
-**Q6: How does topic modeling (LDA) work conceptually?**
-A: LDA (Latent Dirichlet Allocation) assumes each document is a mix of topics, and each topic is a distribution of words. It learns these distributions to discover hidden themes — like identifying that reviews mentioning "battery, charge, portable" cluster into a "portable electronics" topic.
-
-**Q7: What are the limitations of your approach?**
-A: Our lexicon-based sentiment analysis may miss sarcasm, slang, and domain-specific language. The dataset is synthetic. Real deployment would need live API connectors and continuous model retraining.
-
-**Q8: How would you scale this project for production?**
-A: Replace synthetic data with live APIs (Twitter, Reddit, Amazon). Use Kafka or Airflow for real-time ingestion. Deploy sentiment with a BERT model. Host on cloud (AWS/GCP) with scheduled pipeline runs. Connect Power BI to the live database.
-
-**Q9: What is a Growth Score and how is it calculated?**
-A: Growth Score = (Recent 3-month mentions − Prior 3-month mentions) / Prior 3-month mentions × 100. A positive score means the product is being talked about more — a strong early signal of emerging market demand.
-
-**Q10: How is this relevant to Customer and Market Insights?**
-A: This project directly converts raw customer voice — reviews, posts, comments — into structured market intelligence. It answers: What products are customers excited about? What are their pain points? Which categories will grow next quarter? — all critical for business strategy.
-
----
 
 ## 🛠️ Technologies Used
 
@@ -238,7 +205,7 @@ A: This project directly converts raw customer voice — reviews, posts, comment
 
 ## 👤 Author
 
-**Nishanth** — MBA Business Analytics, Woxsen University (2027)
+**S Gnaneshwar** — MBA Business Analytics, Woxsen University (2027)
 Skills: Python · Pandas · SQL · Power BI · NLP
 
 ---
