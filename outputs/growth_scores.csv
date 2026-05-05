@@ -1,0 +1,31 @@
+product_name,recent_mentions,prior_mentions,growth_score_pct,trend_label
+Plant-based Protein,6,1,500.0,🚀 Rapidly Emerging
+Compression Socks,5,1,400.0,🚀 Rapidly Emerging
+Mini Projector,4,1,300.0,🚀 Rapidly Emerging
+Ergonomic Chair,4,1,300.0,🚀 Rapidly Emerging
+Noise Cancelling Earbuds,3,1,200.0,🚀 Rapidly Emerging
+Bamboo Toothbrush,3,1,200.0,🚀 Rapidly Emerging
+Wireless Charger,4,0,100.0,🚀 Rapidly Emerging
+Portable Blender,4,2,100.0,🚀 Rapidly Emerging
+LED Strip Lights,2,1,100.0,🚀 Rapidly Emerging
+Smart Water Bottle,4,2,100.0,🚀 Rapidly Emerging
+Posture Corrector,5,3,66.7,🚀 Rapidly Emerging
+Air Purifier,5,3,66.7,🚀 Rapidly Emerging
+Smart Ring,3,2,50.0,🚀 Rapidly Emerging
+UV Sanitizer,6,4,50.0,🚀 Rapidly Emerging
+Blue Light Glasses,4,3,33.3,📈 Growing
+Robot Vacuum,2,2,0.0,➡️  Stable
+AI Earbuds,4,4,0.0,➡️  Stable
+Portable Solar Panel,2,2,0.0,➡️  Stable
+Smart Insole,3,4,-25.0,📉 Declining
+Eco Water Bottle,2,3,-33.3,📉 Declining
+Standing Desk,2,3,-33.3,📉 Declining
+Smart Pillowcase,2,3,-33.3,📉 Declining
+Dog GPS Tracker,4,7,-42.9,📉 Declining
+Mechanic Keyboard,2,4,-50.0,📉 Declining
+Air Fryer,1,2,-50.0,📉 Declining
+Foldable Keyboard,1,2,-50.0,📉 Declining
+Smart Glasses,3,6,-50.0,📉 Declining
+Sleep Tracker,3,6,-50.0,📉 Declining
+Smart Plug,1,2,-50.0,📉 Declining
+AI Camera,1,4,-75.0,📉 Declining

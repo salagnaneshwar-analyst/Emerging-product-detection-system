@@ -1,0 +1,621 @@
+date,source,customer_text,platform,product_category,product_name,sentiment_label
+2024-01-02,News,Smart Plug packaging was fine but product itself is mediocre.,News,Smart Home,Smart Plug,negative
+2024-01-06,Reddit,Comparing the Compression Socks with alternatives before deciding to keep it.,Reddit,Health,Compression Socks,neutral
+2024-01-16,Flipkart,Too many bugs in the Smart Pillowcase app. Very frustrating experience.,Flipkart,Sleep Tech,Smart Pillowcase,negative
+2024-01-17,Flipkart,The Compression Socks is trending for a reason it is brilliant!,Flipkart,Health,Compression Socks,positive
+2024-01-24,Twitter,Trying out the LED Strip Lights for a month before giving full review.,Twitter,Home,LED Strip Lights,neutral
+2024-01-28,News,Mixed feelings about Posture Corrector. Some features are great others not.,News,Health,Posture Corrector,neutral
+2024-01-28,YouTube,The Noise Cancelling Earbuds is worth every rupee. Quality is top notch.,YouTube,Audio,Noise Cancelling Earbuds,positive
+2024-02-03,YouTube,Unboxing the Noise Cancelling Earbuds was such a premium experience. Love it.,YouTube,Audio,Noise Cancelling Earbuds,positive
+2024-02-04,Flipkart,Expected more from the UV Sanitizer. Build quality is poor.,Flipkart,Health,UV Sanitizer,negative
+2024-02-06,News,My Smart Plug arrived damaged. Customer service was unhelpful.,News,Smart Home,Smart Plug,negative
+2024-02-07,Amazon,My Bamboo Toothbrush arrived damaged. Customer service was unhelpful.,Amazon,Eco Living,Bamboo Toothbrush,negative
+2024-02-08,Flipkart,Unboxing the Blue Light Glasses was such a premium experience. Love it.,Flipkart,Eyewear,Blue Light Glasses,positive
+2024-02-10,Amazon,My UV Sanitizer seems fine but needs more time to evaluate.,Amazon,Health,UV Sanitizer,neutral
+2024-02-14,Flipkart,The Mechanic Keyboard has amazing battery life and premium build quality.,Flipkart,Accessories,Mechanic Keyboard,positive
+2024-02-14,Flipkart,My Ergonomic Chair arrived and I am blown away. Would buy again.,Flipkart,Office,Ergonomic Chair,positive
+2024-02-14,News,Foldable Keyboard packaging was fine but product itself is mediocre.,News,Accessories,Foldable Keyboard,negative
+2024-02-15,YouTube,The Foldable Keyboard exceeded all my expectations. 5 stars!,YouTube,Accessories,Foldable Keyboard,positive
+2024-02-15,Amazon,The LED Strip Lights is exactly what young professionals need today.,Amazon,Home,LED Strip Lights,positive
+2024-02-18,Twitter,The UV Sanitizer has amazing battery life and premium build quality.,Twitter,Health,UV Sanitizer,positive
+2024-02-18,Amazon,Just unboxed the UV Sanitizer. First impressions are average.,Amazon,Health,UV Sanitizer,neutral
+2024-02-19,YouTube,Too many bugs in the Portable Blender app. Very frustrating experience.,YouTube,Kitchen,Portable Blender,negative
+2024-02-20,YouTube,Trying out the Smart Plug for a month before giving full review.,YouTube,Smart Home,Smart Plug,neutral
+2024-02-21,Flipkart,The Smart Pillowcase is overpriced for what it offers. Not worth it.,Flipkart,Sleep Tech,Smart Pillowcase,negative
+2024-02-22,Reddit,Expected more from the Noise Cancelling Earbuds. Build quality is poor.,Reddit,Audio,Noise Cancelling Earbuds,negative
+2024-02-22,YouTube,Mixed feelings about Smart Plug. Some features are great others not.,YouTube,Smart Home,Smart Plug,neutral
+2024-02-22,Amazon,The Bamboo Toothbrush is worth every rupee. Quality is top notch.,Amazon,Eco Living,Bamboo Toothbrush,positive
+2024-02-23,Amazon,The Mini Projector is a gimmick. Returned it immediately.,Amazon,Electronics,Mini Projector,negative
+2024-02-23,News,Just unboxed the Compression Socks. First impressions are average.,News,Health,Compression Socks,neutral
+2024-02-25,Flipkart,Everyone in my office is asking about my Blue Light Glasses. So impressed.,Flipkart,Eyewear,Blue Light Glasses,positive
+2024-02-28,Amazon,My Mechanic Keyboard arrived and I am blown away. Would buy again.,Amazon,Accessories,Mechanic Keyboard,positive
+2024-02-29,Flipkart,Too many bugs in the Mini Projector app. Very frustrating experience.,Flipkart,Electronics,Mini Projector,negative
+2024-03-06,YouTube,Disappointed with my Smart Insole. Stopped working after a week.,YouTube,Wearables,Smart Insole,negative
+2024-03-08,Reddit,Cannot imagine my life without the Posture Corrector now. So useful.,Reddit,Health,Posture Corrector,positive
+2024-03-09,Reddit,I absolutely love my new Foldable Keyboard! It changed my daily routine completely.,Reddit,Accessories,Foldable Keyboard,positive
+2024-03-11,Amazon,Just unboxed the Mini Projector. First impressions are average.,Amazon,Electronics,Mini Projector,neutral
+2024-03-11,Reddit,My Portable Blender arrived damaged. Customer service was unhelpful.,Reddit,Kitchen,Portable Blender,negative
+2024-03-12,Reddit,The Mechanic Keyboard is exactly what young professionals need today.,Reddit,Accessories,Mechanic Keyboard,positive
+2024-03-12,Flipkart,Just unboxed the Smart Insole. First impressions are average.,Flipkart,Wearables,Smart Insole,neutral
+2024-03-14,Amazon,Gifted the Compression Socks to my friend and they loved it too!,Amazon,Health,Compression Socks,positive
+2024-03-16,News,Everyone in my office is asking about my LED Strip Lights. So impressed.,News,Home,LED Strip Lights,positive
+2024-03-18,YouTube,The Mini Projector is exactly what young professionals need today.,YouTube,Electronics,Mini Projector,positive
+2024-03-21,Amazon,The Robot Vacuum has amazing battery life and premium build quality.,Amazon,Home Automation,Robot Vacuum,positive
+2024-03-22,Twitter,The Posture Corrector exceeded all my expectations. 5 stars!,Twitter,Health,Posture Corrector,positive
+2024-03-23,YouTube,Disappointed with my UV Sanitizer. Stopped working after a week.,YouTube,Health,UV Sanitizer,negative
+2024-03-24,News,Compression Socks packaging was fine but product itself is mediocre.,News,Health,Compression Socks,negative
+2024-03-25,Amazon,The Smart Pillowcase is overpriced for what it offers. Not worth it.,Amazon,Sleep Tech,Smart Pillowcase,negative
+2024-03-28,Twitter,The Noise Cancelling Earbuds is overpriced for what it offers. Not worth it.,Twitter,Audio,Noise Cancelling Earbuds,negative
+2024-03-28,YouTube,The Compression Socks is a gimmick. Returned it immediately.,YouTube,Health,Compression Socks,negative
+2024-03-28,Twitter,Best purchase of the year the Portable Blender is incredible value for money.,Twitter,Kitchen,Portable Blender,positive
+2024-03-29,Amazon,Best purchase of the year the Smart Pillowcase is incredible value for money.,Amazon,Sleep Tech,Smart Pillowcase,positive
+2024-04-03,Flipkart,Not happy with my Smart Plug purchase. Instructions are confusing.,Flipkart,Smart Home,Smart Plug,negative
+2024-04-03,Flipkart,The Smart Pillowcase is overpriced for what it offers. Not worth it.,Flipkart,Sleep Tech,Smart Pillowcase,negative
+2024-04-04,Amazon,My Smart Plug arrived damaged. Customer service was unhelpful.,Amazon,Smart Home,Smart Plug,negative
+2024-04-06,Amazon,Too many bugs in the Portable Blender app. Very frustrating experience.,Amazon,Kitchen,Portable Blender,negative
+2024-04-09,Twitter,The Bamboo Toothbrush is trending for a reason it is brilliant!,Twitter,Eco Living,Bamboo Toothbrush,positive
+2024-04-13,Reddit,My Smart Plug arrived and I am blown away. Would buy again.,Reddit,Smart Home,Smart Plug,positive
+2024-04-14,Reddit,Foldable Keyboard packaging was fine but product itself is mediocre.,Reddit,Accessories,Foldable Keyboard,negative
+2024-04-16,Amazon,My UV Sanitizer arrived damaged. Customer service was unhelpful.,Amazon,Health,UV Sanitizer,negative
+2024-04-19,Twitter,Expected more from the Air Purifier. Build quality is poor.,Twitter,Home,Air Purifier,negative
+2024-04-23,Flipkart,My Smart Pillowcase arrived damaged. Customer service was unhelpful.,Flipkart,Sleep Tech,Smart Pillowcase,negative
+2024-04-25,Reddit,The Air Purifier has amazing battery life and premium build quality.,Reddit,Home,Air Purifier,positive
+2024-04-27,YouTube,Compression Socks packaging was fine but product itself is mediocre.,YouTube,Health,Compression Socks,negative
+2024-04-28,Amazon,The Air Purifier trend seems interesting. Let us see if it lasts.,Amazon,Home,Air Purifier,neutral
+2024-04-30,News,Just got the Air Fryer and I am already obsessed. Game changer!,News,Kitchen,Air Fryer,positive
+2024-05-03,Reddit,The Air Purifier is a gimmick. Returned it immediately.,Reddit,Home,Air Purifier,negative
+2024-05-08,News,My Ergonomic Chair arrived and I am blown away. Would buy again.,News,Office,Ergonomic Chair,positive
+2024-05-09,Twitter,Not happy with my Bamboo Toothbrush purchase. Instructions are confusing.,Twitter,Eco Living,Bamboo Toothbrush,negative
+2024-05-09,Twitter,Air Purifier packaging was fine but product itself is mediocre.,Twitter,Home,Air Purifier,negative
+2024-05-14,Twitter,The Smart Plug is exactly what young professionals need today.,Twitter,Smart Home,Smart Plug,positive
+2024-05-14,News,Expected more from the Robot Vacuum. Build quality is poor.,News,Home Automation,Robot Vacuum,negative
+2024-05-20,News,Too many bugs in the Portable Blender app. Very frustrating experience.,News,Kitchen,Portable Blender,negative
+2024-05-24,Reddit,Just got the Blue Light Glasses and I am already obsessed. Game changer!,Reddit,Eyewear,Blue Light Glasses,positive
+2024-05-25,Amazon,Air Fryer works flawlessly. Highly recommend to everyone!,Amazon,Kitchen,Air Fryer,positive
+2024-05-26,Amazon,Foldable Keyboard seems to be everywhere lately. Curious to understand why.,Amazon,Accessories,Foldable Keyboard,neutral
+2024-05-26,News,The Air Fryer has amazing battery life and premium build quality.,News,Kitchen,Air Fryer,positive
+2024-05-27,Reddit,I absolutely love my new Noise Cancelling Earbuds! It changed my daily routine completely.,Reddit,Audio,Noise Cancelling Earbuds,positive
+2024-05-29,Reddit,The Noise Cancelling Earbuds is trending for a reason it is brilliant!,Reddit,Audio,Noise Cancelling Earbuds,positive
+2024-05-29,Amazon,Just got the LED Strip Lights and I am already obsessed. Game changer!,Amazon,Home,LED Strip Lights,positive
+2024-05-29,Flipkart,The Smart Insole is worth every rupee. Quality is top notch.,Flipkart,Wearables,Smart Insole,positive
+2024-05-31,Amazon,Mixed feelings about Foldable Keyboard. Some features are great others not.,Amazon,Accessories,Foldable Keyboard,neutral
+2024-05-31,News,I absolutely love my new Noise Cancelling Earbuds! It changed my daily routine completely.,News,Audio,Noise Cancelling Earbuds,positive
+2024-06-01,YouTube,The Portable Blender is a gimmick. Returned it immediately.,YouTube,Kitchen,Portable Blender,negative
+2024-06-03,News,Trying out the Bamboo Toothbrush for a month before giving full review.,News,Eco Living,Bamboo Toothbrush,neutral
+2024-06-04,Twitter,Cannot imagine my life without the Compression Socks now. So useful.,Twitter,Health,Compression Socks,positive
+2024-06-05,Amazon,The Air Purifier battery life is terrible. Very disappointed.,Amazon,Home,Air Purifier,negative
+2024-06-07,YouTube,The Smart Plug is exactly what young professionals need today.,YouTube,Smart Home,Smart Plug,positive
+2024-06-10,News,The Smart Pillowcase is trending for a reason it is brilliant!,News,Sleep Tech,Smart Pillowcase,positive
+2024-06-10,Amazon,Gifted the Blue Light Glasses to my friend and they loved it too!,Amazon,Eyewear,Blue Light Glasses,positive
+2024-06-12,YouTube,The Mini Projector trend seems interesting. Let us see if it lasts.,YouTube,Electronics,Mini Projector,neutral
+2024-06-13,Twitter,The UV Sanitizer app is intuitive and the hardware is solid.,Twitter,Health,UV Sanitizer,positive
+2024-06-14,Flipkart,Mixed feelings about Smart Pillowcase. Some features are great others not.,Flipkart,Sleep Tech,Smart Pillowcase,neutral
+2024-06-18,Flipkart,Comparing the Compression Socks with alternatives before deciding to keep it.,Flipkart,Health,Compression Socks,neutral
+2024-06-19,Reddit,My Portable Blender arrived and I am blown away. Would buy again.,Reddit,Kitchen,Portable Blender,positive
+2024-06-20,Amazon,The Ergonomic Chair is overpriced for what it offers. Not worth it.,Amazon,Office,Ergonomic Chair,negative
+2024-06-24,YouTube,My Posture Corrector arrived damaged. Customer service was unhelpful.,YouTube,Health,Posture Corrector,negative
+2024-06-24,Reddit,Not happy with my Noise Cancelling Earbuds purchase. Instructions are confusing.,Reddit,Audio,Noise Cancelling Earbuds,negative
+2024-06-25,Flipkart,Trying out the Portable Blender for a month before giving full review.,Flipkart,Kitchen,Portable Blender,neutral
+2024-06-26,Reddit,Expected more from the Wireless Charger. Build quality is poor.,Reddit,Electronics,Wireless Charger,negative
+2024-06-28,YouTube,Trying out the LED Strip Lights for a month before giving full review.,YouTube,Home,LED Strip Lights,neutral
+2024-06-28,YouTube,Too many bugs in the Noise Cancelling Earbuds app. Very frustrating experience.,YouTube,Audio,Noise Cancelling Earbuds,negative
+2024-06-28,Twitter,Unboxing the Mechanic Keyboard was such a premium experience. Love it.,Twitter,Accessories,Mechanic Keyboard,positive
+2024-06-30,Reddit,Got the Smart Plug last week. Still figuring out all the features.,Reddit,Smart Home,Smart Plug,neutral
+2024-07-02,Flipkart,Best purchase of the year the Compression Socks is incredible value for money.,Flipkart,Health,Compression Socks,positive
+2024-07-03,Amazon,Just unboxed the Smart Insole. First impressions are average.,Amazon,Wearables,Smart Insole,neutral
+2024-07-03,YouTube,Best purchase of the year the Noise Cancelling Earbuds is incredible value for money.,YouTube,Audio,Noise Cancelling Earbuds,positive
+2024-07-04,Amazon,The Air Fryer trend seems interesting. Let us see if it lasts.,Amazon,Kitchen,Air Fryer,neutral
+2024-07-05,Flipkart,The Mini Projector is worth every rupee. Quality is top notch.,Flipkart,Electronics,Mini Projector,positive
+2024-07-06,Flipkart,The Mini Projector exceeded all my expectations. 5 stars!,Flipkart,Electronics,Mini Projector,positive
+2024-07-13,Flipkart,The Bamboo Toothbrush has amazing battery life and premium build quality.,Flipkart,Eco Living,Bamboo Toothbrush,positive
+2024-07-13,YouTube,Expected more from the Foldable Keyboard. Build quality is poor.,YouTube,Accessories,Foldable Keyboard,negative
+2024-07-14,Flipkart,Mini Projector seems to be everywhere lately. Curious to understand why.,Flipkart,Electronics,Mini Projector,neutral
+2024-07-15,Flipkart,Ergonomic Chair works flawlessly. Highly recommend to everyone!,Flipkart,Office,Ergonomic Chair,positive
+2024-07-15,Flipkart,The Posture Corrector is decent. Has pros and cons. Will update later.,Flipkart,Health,Posture Corrector,neutral
+2024-07-17,Flipkart,Cannot imagine my life without the Standing Desk now. So useful.,Flipkart,Office,Standing Desk,positive
+2024-07-17,News,Just unboxed the Smart Pillowcase. First impressions are average.,News,Sleep Tech,Smart Pillowcase,neutral
+2024-07-22,News,The Smart Pillowcase is exactly what young professionals need today.,News,Sleep Tech,Smart Pillowcase,positive
+2024-07-23,YouTube,Do not waste money on the Bamboo Toothbrush. Better alternatives exist.,YouTube,Eco Living,Bamboo Toothbrush,negative
+2024-07-29,News,The Standing Desk is exactly what young professionals need today.,News,Office,Standing Desk,positive
+2024-08-06,YouTube,Expected more from the Blue Light Glasses. Build quality is poor.,YouTube,Eyewear,Blue Light Glasses,negative
+2024-08-07,Flipkart,The Mechanic Keyboard is trending for a reason it is brilliant!,Flipkart,Accessories,Mechanic Keyboard,positive
+2024-08-12,Flipkart,Gifted the Ergonomic Chair to my friend and they loved it too!,Flipkart,Office,Ergonomic Chair,positive
+2024-08-13,News,Just got the Standing Desk and I am already obsessed. Game changer!,News,Office,Standing Desk,positive
+2024-08-14,Amazon,The Portable Blender exceeded all my expectations. 5 stars!,Amazon,Kitchen,Portable Blender,positive
+2024-08-14,News,Smart Insole works flawlessly. Highly recommend to everyone!,News,Wearables,Smart Insole,positive
+2024-08-16,Reddit,The Standing Desk exceeded all my expectations. 5 stars!,Reddit,Office,Standing Desk,positive
+2024-08-17,Amazon,The Portable Blender app is intuitive and the hardware is solid.,Amazon,Kitchen,Portable Blender,positive
+2024-08-18,Amazon,Comparing the Compression Socks with alternatives before deciding to keep it.,Amazon,Health,Compression Socks,neutral
+2024-08-18,Reddit,Gifted the Bamboo Toothbrush to my friend and they loved it too!,Reddit,Eco Living,Bamboo Toothbrush,positive
+2024-08-19,News,Disappointed with my Compression Socks. Stopped working after a week.,News,Health,Compression Socks,negative
+2024-08-22,Twitter,Just unboxed the LED Strip Lights. First impressions are average.,Twitter,Home,LED Strip Lights,neutral
+2024-08-23,News,Disappointed with my Noise Cancelling Earbuds. Stopped working after a week.,News,Audio,Noise Cancelling Earbuds,negative
+2024-08-23,Amazon,The LED Strip Lights is a gimmick. Returned it immediately.,Amazon,Home,LED Strip Lights,negative
+2024-08-24,YouTube,Mini Projector works flawlessly. Highly recommend to everyone!,YouTube,Electronics,Mini Projector,positive
+2024-08-25,Twitter,Just got the UV Sanitizer and I am already obsessed. Game changer!,Twitter,Health,UV Sanitizer,positive
+2024-08-29,Twitter,The Mini Projector is a gimmick. Returned it immediately.,Twitter,Electronics,Mini Projector,negative
+2024-08-30,Reddit,Got the Standing Desk last week. Still figuring out all the features.,Reddit,Office,Standing Desk,neutral
+2024-09-01,News,The Foldable Keyboard is exactly what young professionals need today.,News,Accessories,Foldable Keyboard,positive
+2024-09-01,Reddit,The Posture Corrector has amazing battery life and premium build quality.,Reddit,Health,Posture Corrector,positive
+2024-09-02,Amazon,The Robot Vacuum app is intuitive and the hardware is solid.,Amazon,Home Automation,Robot Vacuum,positive
+2024-09-03,Flipkart,Everyone in my office is asking about my Smart Pillowcase. So impressed.,Flipkart,Sleep Tech,Smart Pillowcase,positive
+2024-09-03,News,Too many bugs in the Wireless Charger app. Very frustrating experience.,News,Electronics,Wireless Charger,negative
+2024-09-03,Amazon,Expected more from the Posture Corrector. Build quality is poor.,Amazon,Health,Posture Corrector,negative
+2024-09-03,Reddit,The Smart Pillowcase is trending for a reason it is brilliant!,Reddit,Sleep Tech,Smart Pillowcase,positive
+2024-09-05,YouTube,Gifted the Mini Projector to my friend and they loved it too!,YouTube,Electronics,Mini Projector,positive
+2024-09-05,YouTube,The LED Strip Lights is exactly what young professionals need today.,YouTube,Home,LED Strip Lights,positive
+2024-09-10,Twitter,I absolutely love my new Ergonomic Chair! It changed my daily routine completely.,Twitter,Office,Ergonomic Chair,positive
+2024-09-10,Amazon,The Blue Light Glasses is decent. Has pros and cons. Will update later.,Amazon,Eyewear,Blue Light Glasses,neutral
+2024-09-10,Reddit,LED Strip Lights works flawlessly. Highly recommend to everyone!,Reddit,Home,LED Strip Lights,positive
+2024-09-10,Twitter,The Wireless Charger battery life is terrible. Very disappointed.,Twitter,Electronics,Wireless Charger,negative
+2024-09-11,YouTube,The Standing Desk is exactly what young professionals need today.,YouTube,Office,Standing Desk,positive
+2024-09-11,Twitter,The UV Sanitizer is exactly what young professionals need today.,Twitter,Health,UV Sanitizer,positive
+2024-09-11,YouTube,The AI Earbuds is overpriced for what it offers. Not worth it.,YouTube,Audio,AI Earbuds,negative
+2024-09-11,Twitter,Cannot imagine my life without the Sleep Tracker now. So useful.,Twitter,Health,Sleep Tracker,positive
+2024-09-15,Twitter,Just got the Plant-based Protein and I am already obsessed. Game changer!,Twitter,Nutrition,Plant-based Protein,positive
+2024-09-15,Amazon,Gifted the Dog GPS Tracker to my friend and they loved it too!,Amazon,Pet Tech,Dog GPS Tracker,positive
+2024-09-16,Flipkart,Everyone in my office is asking about my Sleep Tracker. So impressed.,Flipkart,Health,Sleep Tracker,positive
+2024-09-16,Flipkart,Best purchase of the year the AI Earbuds is incredible value for money.,Flipkart,Audio,AI Earbuds,positive
+2024-09-16,Reddit,The Eco Water Bottle is worth every rupee. Quality is top notch.,Reddit,Lifestyle,Eco Water Bottle,positive
+2024-09-18,Flipkart,The Air Purifier battery life is terrible. Very disappointed.,Flipkart,Home,Air Purifier,negative
+2024-09-19,Twitter,My Smart Water Bottle arrived damaged. Customer service was unhelpful.,Twitter,Health,Smart Water Bottle,negative
+2024-09-21,Flipkart,The Plant-based Protein has amazing battery life and premium build quality.,Flipkart,Nutrition,Plant-based Protein,positive
+2024-09-25,YouTube,My Mini Projector arrived and I am blown away. Would buy again.,YouTube,Electronics,Mini Projector,positive
+2024-09-25,News,Everyone in my office is asking about my Portable Solar Panel. So impressed.,News,Green Tech,Portable Solar Panel,positive
+2024-09-26,YouTube,Comparing the Robot Vacuum with alternatives before deciding to keep it.,YouTube,Home Automation,Robot Vacuum,neutral
+2024-09-28,News,Got the Sleep Tracker last week. Still figuring out all the features.,News,Health,Sleep Tracker,neutral
+2024-09-28,Flipkart,Mixed feelings about Posture Corrector. Some features are great others not.,Flipkart,Health,Posture Corrector,neutral
+2024-09-29,Reddit,Everyone in my office is asking about my Sleep Tracker. So impressed.,Reddit,Health,Sleep Tracker,positive
+2024-09-30,Amazon,The Air Purifier is okay. Nothing exceptional but gets the job done.,Amazon,Home,Air Purifier,neutral
+2024-09-30,Reddit,The Eco Water Bottle is decent. Has pros and cons. Will update later.,Reddit,Lifestyle,Eco Water Bottle,neutral
+2024-10-01,News,The Mechanic Keyboard exceeded all my expectations. 5 stars!,News,Accessories,Mechanic Keyboard,positive
+2024-10-01,Flipkart,The Dog GPS Tracker trend seems interesting. Let us see if it lasts.,Flipkart,Pet Tech,Dog GPS Tracker,neutral
+2024-10-06,Flipkart,The Blue Light Glasses is trending for a reason it is brilliant!,Flipkart,Eyewear,Blue Light Glasses,positive
+2024-10-06,News,The Smart Pillowcase is decent. Has pros and cons. Will update later.,News,Sleep Tech,Smart Pillowcase,neutral
+2024-10-07,YouTube,Cannot imagine my life without the Air Fryer now. So useful.,YouTube,Kitchen,Air Fryer,positive
+2024-10-09,YouTube,The Eco Water Bottle is exactly what young professionals need today.,YouTube,Lifestyle,Eco Water Bottle,positive
+2024-10-10,Amazon,Cannot imagine my life without the Portable Solar Panel now. So useful.,Amazon,Green Tech,Portable Solar Panel,positive
+2024-10-11,Flipkart,Too many bugs in the Robot Vacuum app. Very frustrating experience.,Flipkart,Home Automation,Robot Vacuum,negative
+2024-10-12,Twitter,My LED Strip Lights seems fine but needs more time to evaluate.,Twitter,Home,LED Strip Lights,neutral
+2024-10-13,Flipkart,Do not waste money on the AI Camera. Better alternatives exist.,Flipkart,Photography,AI Camera,negative
+2024-10-13,Flipkart,Everyone in my office is asking about my Posture Corrector. So impressed.,Flipkart,Health,Posture Corrector,positive
+2024-10-14,Flipkart,Just unboxed the AI Camera. First impressions are average.,Flipkart,Photography,AI Camera,neutral
+2024-10-15,Twitter,Too many bugs in the Smart Water Bottle app. Very frustrating experience.,Twitter,Health,Smart Water Bottle,negative
+2024-10-15,Flipkart,Blue Light Glasses packaging was fine but product itself is mediocre.,Flipkart,Eyewear,Blue Light Glasses,negative
+2024-10-16,Twitter,Not happy with my Air Purifier purchase. Instructions are confusing.,Twitter,Home,Air Purifier,negative
+2024-10-16,Reddit,Best purchase of the year the Sleep Tracker is incredible value for money.,Reddit,Health,Sleep Tracker,positive
+2024-10-16,Amazon,The AI Camera is okay. Nothing exceptional but gets the job done.,Amazon,Photography,AI Camera,neutral
+2024-10-17,Twitter,Not happy with my Compression Socks purchase. Instructions are confusing.,Twitter,Health,Compression Socks,negative
+2024-10-17,Twitter,Just got the Sleep Tracker and I am already obsessed. Game changer!,Twitter,Health,Sleep Tracker,positive
+2024-10-20,Twitter,Trying out the Mini Projector for a month before giving full review.,Twitter,Electronics,Mini Projector,neutral
+2024-10-23,Flipkart,The Smart Water Bottle is worth every rupee. Quality is top notch.,Flipkart,Health,Smart Water Bottle,positive
+2024-10-23,Amazon,I absolutely love my new Ergonomic Chair! It changed my daily routine completely.,Amazon,Office,Ergonomic Chair,positive
+2024-10-23,News,The Mini Projector app is intuitive and the hardware is solid.,News,Electronics,Mini Projector,positive
+2024-10-23,YouTube,Got the Air Fryer last week. Still figuring out all the features.,YouTube,Kitchen,Air Fryer,neutral
+2024-10-25,YouTube,Do not waste money on the Bamboo Toothbrush. Better alternatives exist.,YouTube,Eco Living,Bamboo Toothbrush,negative
+2024-10-27,News,Mixed feelings about Portable Blender. Some features are great others not.,News,Kitchen,Portable Blender,neutral
+2024-10-28,News,Cannot imagine my life without the Posture Corrector now. So useful.,News,Health,Posture Corrector,positive
+2024-10-29,Flipkart,Mixed feelings about Smart Water Bottle. Some features are great others not.,Flipkart,Health,Smart Water Bottle,neutral
+2024-10-29,Twitter,The Mini Projector is okay. Nothing exceptional but gets the job done.,Twitter,Electronics,Mini Projector,neutral
+2024-10-29,Flipkart,The Air Fryer is a gimmick. Returned it immediately.,Flipkart,Kitchen,Air Fryer,negative
+2024-10-29,News,The Smart Insole is decent. Has pros and cons. Will update later.,News,Wearables,Smart Insole,neutral
+2024-10-30,Reddit,LED Strip Lights works flawlessly. Highly recommend to everyone!,Reddit,Home,LED Strip Lights,positive
+2024-10-31,Flipkart,Cannot imagine my life without the Portable Solar Panel now. So useful.,Flipkart,Green Tech,Portable Solar Panel,positive
+2024-10-31,Flipkart,Everyone in my office is asking about my Plant-based Protein. So impressed.,Flipkart,Nutrition,Plant-based Protein,positive
+2024-11-03,Flipkart,The Foldable Keyboard is trending for a reason it is brilliant!,Flipkart,Accessories,Foldable Keyboard,positive
+2024-11-04,News,Unboxing the Posture Corrector was such a premium experience. Love it.,News,Health,Posture Corrector,positive
+2024-11-05,Amazon,Not happy with my Air Purifier purchase. Instructions are confusing.,Amazon,Home,Air Purifier,negative
+2024-11-05,YouTube,The UV Sanitizer is exactly what young professionals need today.,YouTube,Health,UV Sanitizer,positive
+2024-11-06,YouTube,AI Earbuds works flawlessly. Highly recommend to everyone!,YouTube,Audio,AI Earbuds,positive
+2024-11-06,Amazon,Got the Smart Plug last week. Still figuring out all the features.,Amazon,Smart Home,Smart Plug,neutral
+2024-11-10,Amazon,Cannot imagine my life without the Dog GPS Tracker now. So useful.,Amazon,Pet Tech,Dog GPS Tracker,positive
+2024-11-11,News,My Portable Solar Panel arrived damaged. Customer service was unhelpful.,News,Green Tech,Portable Solar Panel,negative
+2024-11-12,YouTube,Just unboxed the Air Purifier. First impressions are average.,YouTube,Home,Air Purifier,neutral
+2024-11-13,Flipkart,My Portable Blender arrived damaged. Customer service was unhelpful.,Flipkart,Kitchen,Portable Blender,negative
+2024-11-13,Amazon,The Mini Projector trend seems interesting. Let us see if it lasts.,Amazon,Electronics,Mini Projector,neutral
+2024-11-14,News,Just got the Dog GPS Tracker and I am already obsessed. Game changer!,News,Pet Tech,Dog GPS Tracker,positive
+2024-11-14,Reddit,I absolutely love my new Ergonomic Chair! It changed my daily routine completely.,Reddit,Office,Ergonomic Chair,positive
+2024-11-16,Twitter,The Mechanic Keyboard has amazing battery life and premium build quality.,Twitter,Accessories,Mechanic Keyboard,positive
+2024-11-18,Twitter,Disappointed with my Portable Solar Panel. Stopped working after a week.,Twitter,Green Tech,Portable Solar Panel,negative
+2024-11-18,YouTube,My Robot Vacuum arrived and I am blown away. Would buy again.,YouTube,Home Automation,Robot Vacuum,positive
+2024-11-22,News,Too many bugs in the Standing Desk app. Very frustrating experience.,News,Office,Standing Desk,negative
+2024-11-22,YouTube,The Smart Plug is a gimmick. Returned it immediately.,YouTube,Smart Home,Smart Plug,negative
+2024-11-22,News,The Mechanic Keyboard is a gimmick. Returned it immediately.,News,Accessories,Mechanic Keyboard,negative
+2024-11-23,YouTube,The Portable Blender is overpriced for what it offers. Not worth it.,YouTube,Kitchen,Portable Blender,negative
+2024-11-26,Twitter,My AI Camera arrived and I am blown away. Would buy again.,Twitter,Photography,AI Camera,positive
+2024-11-26,Flipkart,Disappointed with my Robot Vacuum. Stopped working after a week.,Flipkart,Home Automation,Robot Vacuum,negative
+2024-11-29,Amazon,The Smart Water Bottle exceeded all my expectations. 5 stars!,Amazon,Health,Smart Water Bottle,positive
+2024-11-30,Reddit,The Dog GPS Tracker is trending for a reason it is brilliant!,Reddit,Pet Tech,Dog GPS Tracker,positive
+2024-11-30,Amazon,Expected more from the Portable Blender. Build quality is poor.,Amazon,Kitchen,Portable Blender,negative
+2024-12-01,Reddit,Just unboxed the Robot Vacuum. First impressions are average.,Reddit,Home Automation,Robot Vacuum,neutral
+2024-12-03,Reddit,Cannot imagine my life without the Mini Projector now. So useful.,Reddit,Electronics,Mini Projector,positive
+2024-12-03,Amazon,Mixed feelings about Smart Ring. Some features are great others not.,Amazon,Wearables,Smart Ring,neutral
+2024-12-04,Twitter,My Standing Desk arrived and I am blown away. Would buy again.,Twitter,Office,Standing Desk,positive
+2024-12-04,Twitter,The Robot Vacuum exceeded all my expectations. 5 stars!,Twitter,Home Automation,Robot Vacuum,positive
+2024-12-05,News,Gifted the Compression Socks to my friend and they loved it too!,News,Health,Compression Socks,positive
+2024-12-06,YouTube,The Wireless Charger trend seems interesting. Let us see if it lasts.,YouTube,Electronics,Wireless Charger,neutral
+2024-12-07,Reddit,The Smart Plug has amazing battery life and premium build quality.,Reddit,Smart Home,Smart Plug,positive
+2024-12-07,YouTube,Mini Projector seems to be everywhere lately. Curious to understand why.,YouTube,Electronics,Mini Projector,neutral
+2024-12-10,Flipkart,Dog GPS Tracker seems to be everywhere lately. Curious to understand why.,Flipkart,Pet Tech,Dog GPS Tracker,neutral
+2024-12-10,Reddit,The Mini Projector is worth every rupee. Quality is top notch.,Reddit,Electronics,Mini Projector,positive
+2024-12-11,YouTube,The Smart Ring is worth every rupee. Quality is top notch.,YouTube,Wearables,Smart Ring,positive
+2024-12-12,Twitter,Mixed feelings about AI Earbuds. Some features are great others not.,Twitter,Audio,AI Earbuds,neutral
+2024-12-13,News,Gifted the Smart Ring to my friend and they loved it too!,News,Wearables,Smart Ring,positive
+2024-12-14,Reddit,The Blue Light Glasses is a gimmick. Returned it immediately.,Reddit,Eyewear,Blue Light Glasses,negative
+2024-12-14,Reddit,My Eco Water Bottle arrived and I am blown away. Would buy again.,Reddit,Lifestyle,Eco Water Bottle,positive
+2024-12-14,Flipkart,Smart Plug seems to be everywhere lately. Curious to understand why.,Flipkart,Smart Home,Smart Plug,neutral
+2024-12-16,News,Do not waste money on the Blue Light Glasses. Better alternatives exist.,News,Eyewear,Blue Light Glasses,negative
+2024-12-17,YouTube,Gifted the Portable Solar Panel to my friend and they loved it too!,YouTube,Green Tech,Portable Solar Panel,positive
+2024-12-18,Flipkart,Unboxing the AI Camera was such a premium experience. Love it.,Flipkart,Photography,AI Camera,positive
+2024-12-19,Twitter,The Smart Insole has amazing battery life and premium build quality.,Twitter,Wearables,Smart Insole,positive
+2024-12-21,Twitter,The Plant-based Protein trend seems interesting. Let us see if it lasts.,Twitter,Nutrition,Plant-based Protein,neutral
+2024-12-21,Twitter,The Standing Desk is a gimmick. Returned it immediately.,Twitter,Office,Standing Desk,negative
+2024-12-22,Twitter,The Sleep Tracker is exactly what young professionals need today.,Twitter,Health,Sleep Tracker,positive
+2024-12-22,YouTube,The Mini Projector is trending for a reason it is brilliant!,YouTube,Electronics,Mini Projector,positive
+2024-12-23,Flipkart,The Foldable Keyboard trend seems interesting. Let us see if it lasts.,Flipkart,Accessories,Foldable Keyboard,neutral
+2024-12-24,YouTube,Best purchase of the year the Smart Glasses is incredible value for money.,YouTube,Wearables,Smart Glasses,positive
+2024-12-25,Flipkart,The AI Camera is decent. Has pros and cons. Will update later.,Flipkart,Photography,AI Camera,neutral
+2024-12-26,Twitter,Do not waste money on the Noise Cancelling Earbuds. Better alternatives exist.,Twitter,Audio,Noise Cancelling Earbuds,negative
+2024-12-26,YouTube,Gifted the Wireless Charger to my friend and they loved it too!,YouTube,Electronics,Wireless Charger,positive
+2024-12-27,News,Just got the Eco Water Bottle and I am already obsessed. Game changer!,News,Lifestyle,Eco Water Bottle,positive
+2024-12-29,Reddit,Just unboxed the Bamboo Toothbrush. First impressions are average.,Reddit,Eco Living,Bamboo Toothbrush,neutral
+2024-12-29,News,The Sleep Tracker has amazing battery life and premium build quality.,News,Health,Sleep Tracker,positive
+2024-12-30,Amazon,Disappointed with my AI Earbuds. Stopped working after a week.,Amazon,Audio,AI Earbuds,negative
+2024-12-31,Amazon,The Dog GPS Tracker is decent. Has pros and cons. Will update later.,Amazon,Pet Tech,Dog GPS Tracker,neutral
+2024-12-31,Reddit,I absolutely love my new Eco Water Bottle! It changed my daily routine completely.,Reddit,Lifestyle,Eco Water Bottle,positive
+2025-01-01,YouTube,The AI Earbuds is overpriced for what it offers. Not worth it.,YouTube,Audio,AI Earbuds,negative
+2025-01-02,YouTube,Unboxing the Dog GPS Tracker was such a premium experience. Love it.,YouTube,Pet Tech,Dog GPS Tracker,positive
+2025-01-05,YouTube,Unboxing the Blue Light Glasses was such a premium experience. Love it.,YouTube,Eyewear,Blue Light Glasses,positive
+2025-01-08,Amazon,Just got the Eco Water Bottle and I am already obsessed. Game changer!,Amazon,Lifestyle,Eco Water Bottle,positive
+2025-01-09,News,The Smart Plug is worth every rupee. Quality is top notch.,News,Smart Home,Smart Plug,positive
+2025-01-10,Twitter,Mixed feelings about Smart Ring. Some features are great others not.,Twitter,Wearables,Smart Ring,neutral
+2025-01-11,Twitter,The Air Purifier is worth every rupee. Quality is top notch.,Twitter,Home,Air Purifier,positive
+2025-01-11,News,Just got the Smart Insole and I am already obsessed. Game changer!,News,Wearables,Smart Insole,positive
+2025-01-12,Twitter,Best purchase of the year the Bamboo Toothbrush is incredible value for money.,Twitter,Eco Living,Bamboo Toothbrush,positive
+2025-01-14,Flipkart,The Compression Socks is exactly what young professionals need today.,Flipkart,Health,Compression Socks,positive
+2025-01-14,Reddit,I absolutely love my new Air Fryer! It changed my daily routine completely.,Reddit,Kitchen,Air Fryer,positive
+2025-01-15,YouTube,The LED Strip Lights exceeded all my expectations. 5 stars!,YouTube,Home,LED Strip Lights,positive
+2025-01-16,YouTube,Mechanic Keyboard seems to be everywhere lately. Curious to understand why.,YouTube,Accessories,Mechanic Keyboard,neutral
+2025-01-16,Reddit,Cannot imagine my life without the Eco Water Bottle now. So useful.,Reddit,Lifestyle,Eco Water Bottle,positive
+2025-01-20,Amazon,The Mini Projector is trending for a reason it is brilliant!,Amazon,Electronics,Mini Projector,positive
+2025-01-20,Flipkart,Trying out the Smart Ring for a month before giving full review.,Flipkart,Wearables,Smart Ring,neutral
+2025-01-20,Reddit,Cannot imagine my life without the Dog GPS Tracker now. So useful.,Reddit,Pet Tech,Dog GPS Tracker,positive
+2025-01-23,Flipkart,The Wireless Charger app is intuitive and the hardware is solid.,Flipkart,Electronics,Wireless Charger,positive
+2025-01-23,Flipkart,My Portable Blender arrived and I am blown away. Would buy again.,Flipkart,Kitchen,Portable Blender,positive
+2025-01-23,News,The Compression Socks trend seems interesting. Let us see if it lasts.,News,Health,Compression Socks,neutral
+2025-01-24,News,My Ergonomic Chair arrived and I am blown away. Would buy again.,News,Office,Ergonomic Chair,positive
+2025-01-24,News,Everyone in my office is asking about my Ergonomic Chair. So impressed.,News,Office,Ergonomic Chair,positive
+2025-01-27,Amazon,The Portable Solar Panel is decent. Has pros and cons. Will update later.,Amazon,Green Tech,Portable Solar Panel,neutral
+2025-01-27,Reddit,My Mini Projector arrived damaged. Customer service was unhelpful.,Reddit,Electronics,Mini Projector,negative
+2025-01-27,YouTube,Best purchase of the year the Sleep Tracker is incredible value for money.,YouTube,Health,Sleep Tracker,positive
+2025-01-29,Twitter,The AI Earbuds app is intuitive and the hardware is solid.,Twitter,Audio,AI Earbuds,positive
+2025-01-29,Twitter,My Posture Corrector arrived and I am blown away. Would buy again.,Twitter,Health,Posture Corrector,positive
+2025-01-30,Flipkart,Mechanic Keyboard works flawlessly. Highly recommend to everyone!,Flipkart,Accessories,Mechanic Keyboard,positive
+2025-01-30,Twitter,UV Sanitizer packaging was fine but product itself is mediocre.,Twitter,Health,UV Sanitizer,negative
+2025-01-31,Amazon,Everyone in my office is asking about my Air Fryer. So impressed.,Amazon,Kitchen,Air Fryer,positive
+2025-01-31,Amazon,The Smart Ring is exactly what young professionals need today.,Amazon,Wearables,Smart Ring,positive
+2025-02-02,News,Comparing the Dog GPS Tracker with alternatives before deciding to keep it.,News,Pet Tech,Dog GPS Tracker,neutral
+2025-02-08,Reddit,Comparing the Smart Ring with alternatives before deciding to keep it.,Reddit,Wearables,Smart Ring,neutral
+2025-02-09,Twitter,I absolutely love my new Mechanic Keyboard! It changed my daily routine completely.,Twitter,Accessories,Mechanic Keyboard,positive
+2025-02-10,Twitter,Comparing the Wireless Charger with alternatives before deciding to keep it.,Twitter,Electronics,Wireless Charger,neutral
+2025-02-11,News,UV Sanitizer seems to be everywhere lately. Curious to understand why.,News,Health,UV Sanitizer,neutral
+2025-02-11,YouTube,The LED Strip Lights is decent. Has pros and cons. Will update later.,YouTube,Home,LED Strip Lights,neutral
+2025-02-11,Twitter,Best purchase of the year the Smart Insole is incredible value for money.,Twitter,Wearables,Smart Insole,positive
+2025-02-11,News,Disappointed with my Plant-based Protein. Stopped working after a week.,News,Nutrition,Plant-based Protein,negative
+2025-02-15,YouTube,Best purchase of the year the Sleep Tracker is incredible value for money.,YouTube,Health,Sleep Tracker,positive
+2025-02-16,Amazon,The Mechanic Keyboard is worth every rupee. Quality is top notch.,Amazon,Accessories,Mechanic Keyboard,positive
+2025-02-16,YouTube,UV Sanitizer seems to be everywhere lately. Curious to understand why.,YouTube,Health,UV Sanitizer,neutral
+2025-02-17,News,Cannot imagine my life without the Sleep Tracker now. So useful.,News,Health,Sleep Tracker,positive
+2025-02-19,YouTube,Best purchase of the year the Standing Desk is incredible value for money.,YouTube,Office,Standing Desk,positive
+2025-02-21,Flipkart,My Portable Blender arrived and I am blown away. Would buy again.,Flipkart,Kitchen,Portable Blender,positive
+2025-02-23,Flipkart,The Eco Water Bottle is overpriced for what it offers. Not worth it.,Flipkart,Lifestyle,Eco Water Bottle,negative
+2025-03-02,Flipkart,The Dog GPS Tracker is exactly what young professionals need today.,Flipkart,Pet Tech,Dog GPS Tracker,positive
+2025-03-03,Twitter,The AI Camera is decent. Has pros and cons. Will update later.,Twitter,Photography,AI Camera,neutral
+2025-03-05,Flipkart,Gifted the AI Camera to my friend and they loved it too!,Flipkart,Photography,AI Camera,positive
+2025-03-05,Flipkart,UV Sanitizer packaging was fine but product itself is mediocre.,Flipkart,Health,UV Sanitizer,negative
+2025-03-07,Flipkart,The Eco Water Bottle trend seems interesting. Let us see if it lasts.,Flipkart,Lifestyle,Eco Water Bottle,neutral
+2025-03-08,News,Best purchase of the year the Portable Blender is incredible value for money.,News,Kitchen,Portable Blender,positive
+2025-03-11,Amazon,Smart Pillowcase seems to be everywhere lately. Curious to understand why.,Amazon,Sleep Tech,Smart Pillowcase,neutral
+2025-03-12,Flipkart,The Bamboo Toothbrush battery life is terrible. Very disappointed.,Flipkart,Eco Living,Bamboo Toothbrush,negative
+2025-03-14,YouTube,The Eco Water Bottle has amazing battery life and premium build quality.,YouTube,Lifestyle,Eco Water Bottle,positive
+2025-03-15,Reddit,Mixed feelings about Noise Cancelling Earbuds. Some features are great others not.,Reddit,Audio,Noise Cancelling Earbuds,neutral
+2025-03-15,News,Cannot imagine my life without the UV Sanitizer now. So useful.,News,Health,UV Sanitizer,positive
+2025-03-16,Reddit,The Mechanic Keyboard exceeded all my expectations. 5 stars!,Reddit,Accessories,Mechanic Keyboard,positive
+2025-03-16,YouTube,The Bamboo Toothbrush is worth every rupee. Quality is top notch.,YouTube,Eco Living,Bamboo Toothbrush,positive
+2025-03-17,Flipkart,The Eco Water Bottle is a gimmick. Returned it immediately.,Flipkart,Lifestyle,Eco Water Bottle,negative
+2025-03-17,Flipkart,I absolutely love my new Smart Water Bottle! It changed my daily routine completely.,Flipkart,Health,Smart Water Bottle,positive
+2025-03-19,Reddit,Disappointed with my Ergonomic Chair. Stopped working after a week.,Reddit,Office,Ergonomic Chair,negative
+2025-03-19,Amazon,Not happy with my AI Earbuds purchase. Instructions are confusing.,Amazon,Audio,AI Earbuds,negative
+2025-03-20,Twitter,The Mechanic Keyboard is okay. Nothing exceptional but gets the job done.,Twitter,Accessories,Mechanic Keyboard,neutral
+2025-03-21,Twitter,Trying out the AI Camera for a month before giving full review.,Twitter,Photography,AI Camera,neutral
+2025-03-22,Amazon,The Smart Ring is exactly what young professionals need today.,Amazon,Wearables,Smart Ring,positive
+2025-03-22,Amazon,Standing Desk packaging was fine but product itself is mediocre.,Amazon,Office,Standing Desk,negative
+2025-03-23,Flipkart,Comparing the AI Camera with alternatives before deciding to keep it.,Flipkart,Photography,AI Camera,neutral
+2025-03-23,Reddit,The Smart Pillowcase app is intuitive and the hardware is solid.,Reddit,Sleep Tech,Smart Pillowcase,positive
+2025-03-24,Reddit,The UV Sanitizer is decent. Has pros and cons. Will update later.,Reddit,Health,UV Sanitizer,neutral
+2025-03-25,Amazon,Gifted the Air Fryer to my friend and they loved it too!,Amazon,Kitchen,Air Fryer,positive
+2025-03-25,Twitter,Got the Dog GPS Tracker last week. Still figuring out all the features.,Twitter,Pet Tech,Dog GPS Tracker,neutral
+2025-03-28,YouTube,Cannot imagine my life without the Smart Ring now. So useful.,YouTube,Wearables,Smart Ring,positive
+2025-03-28,Reddit,Got the AI Earbuds last week. Still figuring out all the features.,Reddit,Audio,AI Earbuds,neutral
+2025-03-29,Amazon,Posture Corrector packaging was fine but product itself is mediocre.,Amazon,Health,Posture Corrector,negative
+2025-03-29,Twitter,Smart Plug seems to be everywhere lately. Curious to understand why.,Twitter,Smart Home,Smart Plug,neutral
+2025-03-30,News,Plant-based Protein works flawlessly. Highly recommend to everyone!,News,Nutrition,Plant-based Protein,positive
+2025-03-30,Reddit,The Mechanic Keyboard battery life is terrible. Very disappointed.,Reddit,Accessories,Mechanic Keyboard,negative
+2025-04-03,News,Unboxing the Smart Ring was such a premium experience. Love it.,News,Wearables,Smart Ring,positive
+2025-04-04,Flipkart,The Smart Insole trend seems interesting. Let us see if it lasts.,Flipkart,Wearables,Smart Insole,neutral
+2025-04-08,YouTube,The AI Camera is worth every rupee. Quality is top notch.,YouTube,Photography,AI Camera,positive
+2025-04-09,Flipkart,Gifted the Mini Projector to my friend and they loved it too!,Flipkart,Electronics,Mini Projector,positive
+2025-04-09,News,Gifted the AI Camera to my friend and they loved it too!,News,Photography,AI Camera,positive
+2025-04-09,News,Unboxing the Portable Solar Panel was such a premium experience. Love it.,News,Green Tech,Portable Solar Panel,positive
+2025-04-10,Reddit,Not happy with my Bamboo Toothbrush purchase. Instructions are confusing.,Reddit,Eco Living,Bamboo Toothbrush,negative
+2025-04-11,Twitter,The Smart Plug has amazing battery life and premium build quality.,Twitter,Smart Home,Smart Plug,positive
+2025-04-11,YouTube,I absolutely love my new Smart Water Bottle! It changed my daily routine completely.,YouTube,Health,Smart Water Bottle,positive
+2025-04-11,Amazon,Unboxing the Plant-based Protein was such a premium experience. Love it.,Amazon,Nutrition,Plant-based Protein,positive
+2025-04-13,News,Unboxing the Standing Desk was such a premium experience. Love it.,News,Office,Standing Desk,positive
+2025-04-13,YouTube,The Portable Blender exceeded all my expectations. 5 stars!,YouTube,Kitchen,Portable Blender,positive
+2025-04-13,YouTube,Best purchase of the year the Dog GPS Tracker is incredible value for money.,YouTube,Pet Tech,Dog GPS Tracker,positive
+2025-04-15,Twitter,Just got the Smart Ring and I am already obsessed. Game changer!,Twitter,Wearables,Smart Ring,positive
+2025-04-15,Flipkart,My Smart Insole arrived damaged. Customer service was unhelpful.,Flipkart,Wearables,Smart Insole,negative
+2025-04-15,Twitter,Too many bugs in the Standing Desk app. Very frustrating experience.,Twitter,Office,Standing Desk,negative
+2025-04-15,Amazon,The Eco Water Bottle has amazing battery life and premium build quality.,Amazon,Lifestyle,Eco Water Bottle,positive
+2025-04-16,Reddit,Unboxing the Foldable Keyboard was such a premium experience. Love it.,Reddit,Accessories,Foldable Keyboard,positive
+2025-04-17,Twitter,Comparing the Air Fryer with alternatives before deciding to keep it.,Twitter,Kitchen,Air Fryer,neutral
+2025-04-18,Reddit,The Eco Water Bottle is trending for a reason it is brilliant!,Reddit,Lifestyle,Eco Water Bottle,positive
+2025-04-18,YouTube,The AI Earbuds app is intuitive and the hardware is solid.,YouTube,Audio,AI Earbuds,positive
+2025-04-19,Flipkart,I absolutely love my new Dog GPS Tracker! It changed my daily routine completely.,Flipkart,Pet Tech,Dog GPS Tracker,positive
+2025-04-19,Amazon,Trying out the Smart Water Bottle for a month before giving full review.,Amazon,Health,Smart Water Bottle,neutral
+2025-04-20,Reddit,Blue Light Glasses packaging was fine but product itself is mediocre.,Reddit,Eyewear,Blue Light Glasses,negative
+2025-04-22,Flipkart,Just unboxed the Smart Glasses. First impressions are average.,Flipkart,Wearables,Smart Glasses,neutral
+2025-04-23,News,Trying out the Plant-based Protein for a month before giving full review.,News,Nutrition,Plant-based Protein,neutral
+2025-04-24,Twitter,Comparing the Standing Desk with alternatives before deciding to keep it.,Twitter,Office,Standing Desk,neutral
+2025-04-25,Flipkart,The Smart Ring battery life is terrible. Very disappointed.,Flipkart,Wearables,Smart Ring,negative
+2025-04-25,Twitter,The Smart Water Bottle is trending for a reason it is brilliant!,Twitter,Health,Smart Water Bottle,positive
+2025-04-26,Twitter,The Air Purifier is trending for a reason it is brilliant!,Twitter,Home,Air Purifier,positive
+2025-04-27,Reddit,The Sleep Tracker is exactly what young professionals need today.,Reddit,Health,Sleep Tracker,positive
+2025-04-27,Reddit,Gifted the Plant-based Protein to my friend and they loved it too!,Reddit,Nutrition,Plant-based Protein,positive
+2025-04-27,News,Got the Ergonomic Chair last week. Still figuring out all the features.,News,Office,Ergonomic Chair,neutral
+2025-04-28,Flipkart,My Dog GPS Tracker seems fine but needs more time to evaluate.,Flipkart,Pet Tech,Dog GPS Tracker,neutral
+2025-04-28,Twitter,The Air Fryer is worth every rupee. Quality is top notch.,Twitter,Kitchen,Air Fryer,positive
+2025-04-28,Amazon,My AI Camera seems fine but needs more time to evaluate.,Amazon,Photography,AI Camera,neutral
+2025-04-29,YouTube,Portable Solar Panel works flawlessly. Highly recommend to everyone!,YouTube,Green Tech,Portable Solar Panel,positive
+2025-05-01,News,Do not waste money on the AI Earbuds. Better alternatives exist.,News,Audio,AI Earbuds,negative
+2025-05-02,Flipkart,Not happy with my Smart Water Bottle purchase. Instructions are confusing.,Flipkart,Health,Smart Water Bottle,negative
+2025-05-03,Reddit,The Wireless Charger exceeded all my expectations. 5 stars!,Reddit,Electronics,Wireless Charger,positive
+2025-05-05,YouTube,The Eco Water Bottle is a gimmick. Returned it immediately.,YouTube,Lifestyle,Eco Water Bottle,negative
+2025-05-05,Flipkart,UV Sanitizer works flawlessly. Highly recommend to everyone!,Flipkart,Health,UV Sanitizer,positive
+2025-05-05,Reddit,My AI Earbuds arrived and I am blown away. Would buy again.,Reddit,Audio,AI Earbuds,positive
+2025-05-05,Flipkart,Too many bugs in the UV Sanitizer app. Very frustrating experience.,Flipkart,Health,UV Sanitizer,negative
+2025-05-06,Flipkart,The Plant-based Protein is trending for a reason it is brilliant!,Flipkart,Nutrition,Plant-based Protein,positive
+2025-05-06,Amazon,The Bamboo Toothbrush app is intuitive and the hardware is solid.,Amazon,Eco Living,Bamboo Toothbrush,positive
+2025-05-08,YouTube,Best purchase of the year the Mini Projector is incredible value for money.,YouTube,Electronics,Mini Projector,positive
+2025-05-10,News,Unboxing the Air Fryer was such a premium experience. Love it.,News,Kitchen,Air Fryer,positive
+2025-05-11,News,Do not waste money on the Ergonomic Chair. Better alternatives exist.,News,Office,Ergonomic Chair,negative
+2025-05-11,YouTube,The Blue Light Glasses has amazing battery life and premium build quality.,YouTube,Eyewear,Blue Light Glasses,positive
+2025-05-12,YouTube,Air Purifier works flawlessly. Highly recommend to everyone!,YouTube,Home,Air Purifier,positive
+2025-05-13,YouTube,Just got the Compression Socks and I am already obsessed. Game changer!,YouTube,Health,Compression Socks,positive
+2025-05-13,News,Do not waste money on the Compression Socks. Better alternatives exist.,News,Health,Compression Socks,negative
+2025-05-16,YouTube,I absolutely love my new Smart Water Bottle! It changed my daily routine completely.,YouTube,Health,Smart Water Bottle,positive
+2025-05-16,YouTube,Trying out the Noise Cancelling Earbuds for a month before giving full review.,YouTube,Audio,Noise Cancelling Earbuds,neutral
+2025-05-16,News,Do not waste money on the Smart Pillowcase. Better alternatives exist.,News,Sleep Tech,Smart Pillowcase,negative
+2025-05-18,Flipkart,The Portable Blender has amazing battery life and premium build quality.,Flipkart,Kitchen,Portable Blender,positive
+2025-05-18,Twitter,Comparing the Sleep Tracker with alternatives before deciding to keep it.,Twitter,Health,Sleep Tracker,neutral
+2025-05-19,Twitter,Smart Water Bottle seems to be everywhere lately. Curious to understand why.,Twitter,Health,Smart Water Bottle,neutral
+2025-05-20,Reddit,Trying out the Smart Glasses for a month before giving full review.,Reddit,Wearables,Smart Glasses,neutral
+2025-05-22,Twitter,Cannot imagine my life without the Dog GPS Tracker now. So useful.,Twitter,Pet Tech,Dog GPS Tracker,positive
+2025-05-22,YouTube,The Portable Solar Panel is decent. Has pros and cons. Will update later.,YouTube,Green Tech,Portable Solar Panel,neutral
+2025-05-22,Flipkart,The AI Earbuds is worth every rupee. Quality is top notch.,Flipkart,Audio,AI Earbuds,positive
+2025-05-23,Reddit,The Smart Glasses is trending for a reason it is brilliant!,Reddit,Wearables,Smart Glasses,positive
+2025-05-23,Reddit,I absolutely love my new Smart Ring! It changed my daily routine completely.,Reddit,Wearables,Smart Ring,positive
+2025-05-24,Amazon,The Bamboo Toothbrush is worth every rupee. Quality is top notch.,Amazon,Eco Living,Bamboo Toothbrush,positive
+2025-05-24,YouTube,The Bamboo Toothbrush is exactly what young professionals need today.,YouTube,Eco Living,Bamboo Toothbrush,positive
+2025-05-26,Reddit,The LED Strip Lights is a gimmick. Returned it immediately.,Reddit,Home,LED Strip Lights,negative
+2025-05-27,Flipkart,I absolutely love my new Smart Pillowcase! It changed my daily routine completely.,Flipkart,Sleep Tech,Smart Pillowcase,positive
+2025-05-30,Reddit,Everyone in my office is asking about my AI Camera. So impressed.,Reddit,Photography,AI Camera,positive
+2025-05-31,Reddit,The Robot Vacuum exceeded all my expectations. 5 stars!,Reddit,Home Automation,Robot Vacuum,positive
+2025-06-02,Twitter,Unboxing the Smart Water Bottle was such a premium experience. Love it.,Twitter,Health,Smart Water Bottle,positive
+2025-06-03,News,Cannot imagine my life without the Posture Corrector now. So useful.,News,Health,Posture Corrector,positive
+2025-06-04,Amazon,The Standing Desk exceeded all my expectations. 5 stars!,Amazon,Office,Standing Desk,positive
+2025-06-05,YouTube,Unboxing the Smart Insole was such a premium experience. Love it.,YouTube,Wearables,Smart Insole,positive
+2025-06-06,Twitter,I absolutely love my new Bamboo Toothbrush! It changed my daily routine completely.,Twitter,Eco Living,Bamboo Toothbrush,positive
+2025-06-07,Flipkart,Just got the Portable Solar Panel and I am already obsessed. Game changer!,Flipkart,Green Tech,Portable Solar Panel,positive
+2025-06-08,YouTube,Comparing the Eco Water Bottle with alternatives before deciding to keep it.,YouTube,Lifestyle,Eco Water Bottle,neutral
+2025-06-08,Amazon,Everyone in my office is asking about my Smart Ring. So impressed.,Amazon,Wearables,Smart Ring,positive
+2025-06-09,Twitter,Just got the Eco Water Bottle and I am already obsessed. Game changer!,Twitter,Lifestyle,Eco Water Bottle,positive
+2025-06-09,Reddit,Cannot imagine my life without the Blue Light Glasses now. So useful.,Reddit,Eyewear,Blue Light Glasses,positive
+2025-06-09,Amazon,Trying out the Air Purifier for a month before giving full review.,Amazon,Home,Air Purifier,neutral
+2025-06-12,Twitter,Plant-based Protein works flawlessly. Highly recommend to everyone!,Twitter,Nutrition,Plant-based Protein,positive
+2025-06-14,News,Too many bugs in the Smart Water Bottle app. Very frustrating experience.,News,Health,Smart Water Bottle,negative
+2025-06-14,Twitter,LED Strip Lights works flawlessly. Highly recommend to everyone!,Twitter,Home,LED Strip Lights,positive
+2025-06-15,Amazon,Just got the Smart Glasses and I am already obsessed. Game changer!,Amazon,Wearables,Smart Glasses,positive
+2025-06-16,Reddit,Just got the Portable Solar Panel and I am already obsessed. Game changer!,Reddit,Green Tech,Portable Solar Panel,positive
+2025-06-17,Amazon,The AI Camera is worth every rupee. Quality is top notch.,Amazon,Photography,AI Camera,positive
+2025-06-17,Twitter,AI Earbuds works flawlessly. Highly recommend to everyone!,Twitter,Audio,AI Earbuds,positive
+2025-06-18,Flipkart,The Plant-based Protein battery life is terrible. Very disappointed.,Flipkart,Nutrition,Plant-based Protein,negative
+2025-06-19,News,Just got the Noise Cancelling Earbuds and I am already obsessed. Game changer!,News,Audio,Noise Cancelling Earbuds,positive
+2025-06-19,YouTube,Everyone in my office is asking about my Smart Water Bottle. So impressed.,YouTube,Health,Smart Water Bottle,positive
+2025-06-21,News,The AI Earbuds is trending for a reason it is brilliant!,News,Audio,AI Earbuds,positive
+2025-06-21,News,The AI Earbuds has amazing battery life and premium build quality.,News,Audio,AI Earbuds,positive
+2025-06-22,Flipkart,Compression Socks works flawlessly. Highly recommend to everyone!,Flipkart,Health,Compression Socks,positive
+2025-06-23,News,Everyone in my office is asking about my Smart Pillowcase. So impressed.,News,Sleep Tech,Smart Pillowcase,positive
+2025-06-24,Amazon,My Sleep Tracker arrived damaged. Customer service was unhelpful.,Amazon,Health,Sleep Tracker,negative
+2025-06-24,Twitter,My Smart Plug seems fine but needs more time to evaluate.,Twitter,Smart Home,Smart Plug,neutral
+2025-06-25,YouTube,Unboxing the Posture Corrector was such a premium experience. Love it.,YouTube,Health,Posture Corrector,positive
+2025-06-26,Reddit,Unboxing the AI Camera was such a premium experience. Love it.,Reddit,Photography,AI Camera,positive
+2025-06-27,News,Mixed feelings about Wireless Charger. Some features are great others not.,News,Electronics,Wireless Charger,neutral
+2025-06-27,YouTube,The Portable Blender is worth every rupee. Quality is top notch.,YouTube,Kitchen,Portable Blender,positive
+2025-06-30,Twitter,Disappointed with my Smart Glasses. Stopped working after a week.,Twitter,Wearables,Smart Glasses,negative
+2025-07-04,Reddit,Unboxing the Dog GPS Tracker was such a premium experience. Love it.,Reddit,Pet Tech,Dog GPS Tracker,positive
+2025-07-09,Twitter,Gifted the AI Earbuds to my friend and they loved it too!,Twitter,Audio,AI Earbuds,positive
+2025-07-09,News,My Plant-based Protein arrived damaged. Customer service was unhelpful.,News,Nutrition,Plant-based Protein,negative
+2025-07-09,News,I absolutely love my new Sleep Tracker! It changed my daily routine completely.,News,Health,Sleep Tracker,positive
+2025-07-11,News,Portable Blender packaging was fine but product itself is mediocre.,News,Kitchen,Portable Blender,negative
+2025-07-11,YouTube,The Compression Socks is worth every rupee. Quality is top notch.,YouTube,Health,Compression Socks,positive
+2025-07-15,Reddit,Mixed feelings about LED Strip Lights. Some features are great others not.,Reddit,Home,LED Strip Lights,neutral
+2025-07-17,Reddit,The Dog GPS Tracker is okay. Nothing exceptional but gets the job done.,Reddit,Pet Tech,Dog GPS Tracker,neutral
+2025-07-18,Reddit,Expected more from the Smart Insole. Build quality is poor.,Reddit,Wearables,Smart Insole,negative
+2025-07-20,Amazon,Got the Smart Pillowcase last week. Still figuring out all the features.,Amazon,Sleep Tech,Smart Pillowcase,neutral
+2025-07-21,Flipkart,My Dog GPS Tracker arrived damaged. Customer service was unhelpful.,Flipkart,Pet Tech,Dog GPS Tracker,negative
+2025-07-26,YouTube,The Mechanic Keyboard exceeded all my expectations. 5 stars!,YouTube,Accessories,Mechanic Keyboard,positive
+2025-07-27,Flipkart,AI Camera works flawlessly. Highly recommend to everyone!,Flipkart,Photography,AI Camera,positive
+2025-07-28,YouTube,Smart Glasses seems to be everywhere lately. Curious to understand why.,YouTube,Wearables,Smart Glasses,neutral
+2025-07-28,YouTube,Not happy with my Foldable Keyboard purchase. Instructions are confusing.,YouTube,Accessories,Foldable Keyboard,negative
+2025-07-31,Twitter,The AI Camera is decent. Has pros and cons. Will update later.,Twitter,Photography,AI Camera,neutral
+2025-08-01,YouTube,Not happy with my Blue Light Glasses purchase. Instructions are confusing.,YouTube,Eyewear,Blue Light Glasses,negative
+2025-08-02,Flipkart,Expected more from the Dog GPS Tracker. Build quality is poor.,Flipkart,Pet Tech,Dog GPS Tracker,negative
+2025-08-03,Flipkart,Smart Insole works flawlessly. Highly recommend to everyone!,Flipkart,Wearables,Smart Insole,positive
+2025-08-03,Amazon,The Sleep Tracker is exactly what young professionals need today.,Amazon,Health,Sleep Tracker,positive
+2025-08-04,Amazon,My Smart Glasses arrived and I am blown away. Would buy again.,Amazon,Wearables,Smart Glasses,positive
+2025-08-05,YouTube,Eco Water Bottle works flawlessly. Highly recommend to everyone!,YouTube,Lifestyle,Eco Water Bottle,positive
+2025-08-05,YouTube,Too many bugs in the Smart Glasses app. Very frustrating experience.,YouTube,Wearables,Smart Glasses,negative
+2025-08-06,Twitter,Got the Eco Water Bottle last week. Still figuring out all the features.,Twitter,Lifestyle,Eco Water Bottle,neutral
+2025-08-06,Flipkart,Too many bugs in the Ergonomic Chair app. Very frustrating experience.,Flipkart,Office,Ergonomic Chair,negative
+2025-08-07,Amazon,The Smart Ring exceeded all my expectations. 5 stars!,Amazon,Wearables,Smart Ring,positive
+2025-08-09,News,The Smart Insole is exactly what young professionals need today.,News,Wearables,Smart Insole,positive
+2025-08-10,YouTube,Gifted the Portable Blender to my friend and they loved it too!,YouTube,Kitchen,Portable Blender,positive
+2025-08-12,Amazon,The Smart Plug is worth every rupee. Quality is top notch.,Amazon,Smart Home,Smart Plug,positive
+2025-08-12,Amazon,Too many bugs in the Air Fryer app. Very frustrating experience.,Amazon,Kitchen,Air Fryer,negative
+2025-08-13,News,The Mechanic Keyboard is exactly what young professionals need today.,News,Accessories,Mechanic Keyboard,positive
+2025-08-14,Amazon,Best purchase of the year the Robot Vacuum is incredible value for money.,Amazon,Home Automation,Robot Vacuum,positive
+2025-08-15,Reddit,The Mechanic Keyboard is worth every rupee. Quality is top notch.,Reddit,Accessories,Mechanic Keyboard,positive
+2025-08-16,News,Do not waste money on the Air Fryer. Better alternatives exist.,News,Kitchen,Air Fryer,negative
+2025-08-16,Amazon,Sleep Tracker works flawlessly. Highly recommend to everyone!,Amazon,Health,Sleep Tracker,positive
+2025-08-16,Reddit,My Portable Solar Panel arrived and I am blown away. Would buy again.,Reddit,Green Tech,Portable Solar Panel,positive
+2025-08-17,Reddit,The Air Purifier is decent. Has pros and cons. Will update later.,Reddit,Home,Air Purifier,neutral
+2025-08-18,YouTube,The UV Sanitizer is trending for a reason it is brilliant!,YouTube,Health,UV Sanitizer,positive
+2025-08-22,Twitter,Portable Solar Panel seems to be everywhere lately. Curious to understand why.,Twitter,Green Tech,Portable Solar Panel,neutral
+2025-08-23,YouTube,I absolutely love my new Posture Corrector! It changed my daily routine completely.,YouTube,Health,Posture Corrector,positive
+2025-08-23,Twitter,AI Earbuds seems to be everywhere lately. Curious to understand why.,Twitter,Audio,AI Earbuds,neutral
+2025-08-24,Amazon,The Blue Light Glasses is worth every rupee. Quality is top notch.,Amazon,Eyewear,Blue Light Glasses,positive
+2025-08-25,Reddit,Standing Desk works flawlessly. Highly recommend to everyone!,Reddit,Office,Standing Desk,positive
+2025-08-26,Flipkart,Unboxing the Foldable Keyboard was such a premium experience. Love it.,Flipkart,Accessories,Foldable Keyboard,positive
+2025-08-26,YouTube,My Standing Desk arrived damaged. Customer service was unhelpful.,YouTube,Office,Standing Desk,negative
+2025-08-28,Flipkart,The Sleep Tracker has amazing battery life and premium build quality.,Flipkart,Health,Sleep Tracker,positive
+2025-08-30,Amazon,Unboxing the Mechanic Keyboard was such a premium experience. Love it.,Amazon,Accessories,Mechanic Keyboard,positive
+2025-08-30,News,The Smart Insole is trending for a reason it is brilliant!,News,Wearables,Smart Insole,positive
+2025-08-30,Reddit,Just got the Smart Ring and I am already obsessed. Game changer!,Reddit,Wearables,Smart Ring,positive
+2025-09-01,Amazon,Just got the Sleep Tracker and I am already obsessed. Game changer!,Amazon,Health,Sleep Tracker,positive
+2025-09-01,Amazon,Not happy with my Standing Desk purchase. Instructions are confusing.,Amazon,Office,Standing Desk,negative
+2025-09-03,News,Best purchase of the year the Noise Cancelling Earbuds is incredible value for money.,News,Audio,Noise Cancelling Earbuds,positive
+2025-09-03,Flipkart,Robot Vacuum packaging was fine but product itself is mediocre.,Flipkart,Home Automation,Robot Vacuum,negative
+2025-09-04,Flipkart,Smart Water Bottle works flawlessly. Highly recommend to everyone!,Flipkart,Health,Smart Water Bottle,positive
+2025-09-06,Twitter,The Dog GPS Tracker is okay. Nothing exceptional but gets the job done.,Twitter,Pet Tech,Dog GPS Tracker,neutral
+2025-09-06,YouTube,Mixed feelings about UV Sanitizer. Some features are great others not.,YouTube,Health,UV Sanitizer,neutral
+2025-09-07,Reddit,The AI Camera has amazing battery life and premium build quality.,Reddit,Photography,AI Camera,positive
+2025-09-07,Amazon,The Eco Water Bottle has amazing battery life and premium build quality.,Amazon,Lifestyle,Eco Water Bottle,positive
+2025-09-08,YouTube,Just got the Smart Glasses and I am already obsessed. Game changer!,YouTube,Wearables,Smart Glasses,positive
+2025-09-09,Amazon,Gifted the Smart Water Bottle to my friend and they loved it too!,Amazon,Health,Smart Water Bottle,positive
+2025-09-09,Flipkart,Expected more from the UV Sanitizer. Build quality is poor.,Flipkart,Health,UV Sanitizer,negative
+2025-09-09,News,Everyone in my office is asking about my UV Sanitizer. So impressed.,News,Health,UV Sanitizer,positive
+2025-09-09,YouTube,Trying out the Sleep Tracker for a month before giving full review.,YouTube,Health,Sleep Tracker,neutral
+2025-09-11,Amazon,Everyone in my office is asking about my Air Purifier. So impressed.,Amazon,Home,Air Purifier,positive
+2025-09-12,Reddit,Comparing the Blue Light Glasses with alternatives before deciding to keep it.,Reddit,Eyewear,Blue Light Glasses,neutral
+2025-09-14,Flipkart,Unboxing the AI Earbuds was such a premium experience. Love it.,Flipkart,Audio,AI Earbuds,positive
+2025-09-16,News,Everyone in my office is asking about my Smart Pillowcase. So impressed.,News,Sleep Tech,Smart Pillowcase,positive
+2025-09-20,News,The AI Earbuds is exactly what young professionals need today.,News,Audio,AI Earbuds,positive
+2025-09-20,Reddit,Gifted the Smart Glasses to my friend and they loved it too!,Reddit,Wearables,Smart Glasses,positive
+2025-09-21,Reddit,The Smart Glasses is exactly what young professionals need today.,Reddit,Wearables,Smart Glasses,positive
+2025-09-21,Amazon,The Smart Plug is decent. Has pros and cons. Will update later.,Amazon,Smart Home,Smart Plug,neutral
+2025-09-24,Reddit,Best purchase of the year the Mini Projector is incredible value for money.,Reddit,Electronics,Mini Projector,positive
+2025-09-26,Flipkart,The Posture Corrector battery life is terrible. Very disappointed.,Flipkart,Health,Posture Corrector,negative
+2025-09-26,Twitter,Bamboo Toothbrush seems to be everywhere lately. Curious to understand why.,Twitter,Eco Living,Bamboo Toothbrush,neutral
+2025-09-26,Twitter,The Posture Corrector has amazing battery life and premium build quality.,Twitter,Health,Posture Corrector,positive
+2025-09-26,YouTube,Too many bugs in the Smart Pillowcase app. Very frustrating experience.,YouTube,Sleep Tech,Smart Pillowcase,negative
+2025-09-28,Amazon,Cannot imagine my life without the Dog GPS Tracker now. So useful.,Amazon,Pet Tech,Dog GPS Tracker,positive
+2025-09-28,Reddit,Got the Dog GPS Tracker last week. Still figuring out all the features.,Reddit,Pet Tech,Dog GPS Tracker,neutral
+2025-09-30,Reddit,The AI Camera battery life is terrible. Very disappointed.,Reddit,Photography,AI Camera,negative
+2025-09-30,Amazon,The Air Purifier is overpriced for what it offers. Not worth it.,Amazon,Home,Air Purifier,negative
+2025-10-01,Reddit,The Portable Solar Panel is trending for a reason it is brilliant!,Reddit,Green Tech,Portable Solar Panel,positive
+2025-10-02,Flipkart,I absolutely love my new Posture Corrector! It changed my daily routine completely.,Flipkart,Health,Posture Corrector,positive
+2025-10-02,Twitter,The Smart Pillowcase has amazing battery life and premium build quality.,Twitter,Sleep Tech,Smart Pillowcase,positive
+2025-10-04,Reddit,Cannot imagine my life without the Smart Water Bottle now. So useful.,Reddit,Health,Smart Water Bottle,positive
+2025-10-04,News,Got the Plant-based Protein last week. Still figuring out all the features.,News,Nutrition,Plant-based Protein,neutral
+2025-10-07,Twitter,The Smart Water Bottle is exactly what young professionals need today.,Twitter,Health,Smart Water Bottle,positive
+2025-10-08,YouTube,Best purchase of the year the Portable Blender is incredible value for money.,YouTube,Kitchen,Portable Blender,positive
+2025-10-08,Flipkart,Just got the Bamboo Toothbrush and I am already obsessed. Game changer!,Flipkart,Eco Living,Bamboo Toothbrush,positive
+2025-10-14,Reddit,Everyone in my office is asking about my Smart Glasses. So impressed.,Reddit,Wearables,Smart Glasses,positive
+2025-10-14,Twitter,Smart Ring works flawlessly. Highly recommend to everyone!,Twitter,Wearables,Smart Ring,positive
+2025-10-16,News,The Wireless Charger trend seems interesting. Let us see if it lasts.,News,Electronics,Wireless Charger,neutral
+2025-10-18,Twitter,Do not waste money on the Portable Blender. Better alternatives exist.,Twitter,Kitchen,Portable Blender,negative
+2025-10-18,Flipkart,The UV Sanitizer battery life is terrible. Very disappointed.,Flipkart,Health,UV Sanitizer,negative
+2025-10-18,Amazon,Just got the Ergonomic Chair and I am already obsessed. Game changer!,Amazon,Office,Ergonomic Chair,positive
+2025-10-18,Reddit,The Wireless Charger trend seems interesting. Let us see if it lasts.,Reddit,Electronics,Wireless Charger,neutral
+2025-10-18,Twitter,Plant-based Protein packaging was fine but product itself is mediocre.,Twitter,Nutrition,Plant-based Protein,negative
+2025-10-19,Flipkart,The Air Purifier battery life is terrible. Very disappointed.,Flipkart,Home,Air Purifier,negative
+2025-10-19,Amazon,Everyone in my office is asking about my AI Earbuds. So impressed.,Amazon,Audio,AI Earbuds,positive
+2025-10-20,Amazon,The Dog GPS Tracker has amazing battery life and premium build quality.,Amazon,Pet Tech,Dog GPS Tracker,positive
+2025-10-20,YouTube,Not happy with my Posture Corrector purchase. Instructions are confusing.,YouTube,Health,Posture Corrector,negative
+2025-10-20,Flipkart,Got the UV Sanitizer last week. Still figuring out all the features.,Flipkart,Health,UV Sanitizer,neutral
+2025-10-22,YouTube,My Smart Insole seems fine but needs more time to evaluate.,YouTube,Wearables,Smart Insole,neutral
+2025-10-22,Flipkart,Mixed feelings about Bamboo Toothbrush. Some features are great others not.,Flipkart,Eco Living,Bamboo Toothbrush,neutral
+2025-10-22,Twitter,The UV Sanitizer is okay. Nothing exceptional but gets the job done.,Twitter,Health,UV Sanitizer,neutral
+2025-10-25,News,Unboxing the Portable Blender was such a premium experience. Love it.,News,Kitchen,Portable Blender,positive
+2025-10-28,News,The Mechanic Keyboard is exactly what young professionals need today.,News,Accessories,Mechanic Keyboard,positive
+2025-10-29,News,Cannot imagine my life without the Standing Desk now. So useful.,News,Office,Standing Desk,positive
+2025-10-31,Twitter,My Sleep Tracker seems fine but needs more time to evaluate.,Twitter,Health,Sleep Tracker,neutral
+2025-11-01,Flipkart,My Mini Projector arrived and I am blown away. Would buy again.,Flipkart,Electronics,Mini Projector,positive
+2025-11-01,News,My Noise Cancelling Earbuds arrived and I am blown away. Would buy again.,News,Audio,Noise Cancelling Earbuds,positive
+2025-11-02,Reddit,The Foldable Keyboard is overpriced for what it offers. Not worth it.,Reddit,Accessories,Foldable Keyboard,negative
+2025-11-02,News,Just got the Plant-based Protein and I am already obsessed. Game changer!,News,Nutrition,Plant-based Protein,positive
+2025-11-03,Amazon,Mixed feelings about UV Sanitizer. Some features are great others not.,Amazon,Health,UV Sanitizer,neutral
+2025-11-04,Amazon,The Plant-based Protein is worth every rupee. Quality is top notch.,Amazon,Nutrition,Plant-based Protein,positive
+2025-11-08,Flipkart,Cannot imagine my life without the Air Purifier now. So useful.,Flipkart,Home,Air Purifier,positive
+2025-11-10,Amazon,The Posture Corrector is decent. Has pros and cons. Will update later.,Amazon,Health,Posture Corrector,neutral
+2025-11-11,News,My Ergonomic Chair seems fine but needs more time to evaluate.,News,Office,Ergonomic Chair,neutral
+2025-11-13,Reddit,The Compression Socks is exactly what young professionals need today.,Reddit,Health,Compression Socks,positive
+2025-11-13,YouTube,Trying out the Posture Corrector for a month before giving full review.,YouTube,Health,Posture Corrector,neutral
+2025-11-13,Amazon,The Smart Pillowcase is worth every rupee. Quality is top notch.,Amazon,Sleep Tech,Smart Pillowcase,positive
+2025-11-14,Amazon,Just got the Eco Water Bottle and I am already obsessed. Game changer!,Amazon,Lifestyle,Eco Water Bottle,positive
+2025-11-19,Twitter,Mixed feelings about Noise Cancelling Earbuds. Some features are great others not.,Twitter,Audio,Noise Cancelling Earbuds,neutral
+2025-11-19,YouTube,The Compression Socks is worth every rupee. Quality is top notch.,YouTube,Health,Compression Socks,positive
+2025-11-19,YouTube,The LED Strip Lights is trending for a reason it is brilliant!,YouTube,Home,LED Strip Lights,positive
+2025-11-19,News,Disappointed with my Blue Light Glasses. Stopped working after a week.,News,Eyewear,Blue Light Glasses,negative
+2025-11-20,Twitter,The Mechanic Keyboard is overpriced for what it offers. Not worth it.,Twitter,Accessories,Mechanic Keyboard,negative
+2025-11-20,Amazon,Comparing the Smart Ring with alternatives before deciding to keep it.,Amazon,Wearables,Smart Ring,neutral
+2025-11-21,Amazon,The Smart Plug trend seems interesting. Let us see if it lasts.,Amazon,Smart Home,Smart Plug,neutral
+2025-11-21,Reddit,Mixed feelings about Portable Blender. Some features are great others not.,Reddit,Kitchen,Portable Blender,neutral
+2025-11-22,Amazon,Unboxing the AI Earbuds was such a premium experience. Love it.,Amazon,Audio,AI Earbuds,positive
+2025-11-23,Reddit,Too many bugs in the Ergonomic Chair app. Very frustrating experience.,Reddit,Office,Ergonomic Chair,negative
+2025-11-24,Amazon,The Robot Vacuum is overpriced for what it offers. Not worth it.,Amazon,Home Automation,Robot Vacuum,negative
+2025-11-24,Flipkart,Expected more from the Compression Socks. Build quality is poor.,Flipkart,Health,Compression Socks,negative
+2025-11-25,News,Got the Mini Projector last week. Still figuring out all the features.,News,Electronics,Mini Projector,neutral
+2025-11-26,Reddit,The Smart Ring has amazing battery life and premium build quality.,Reddit,Wearables,Smart Ring,positive
+2025-11-26,News,I absolutely love my new Smart Insole! It changed my daily routine completely.,News,Wearables,Smart Insole,positive
+2025-11-27,Twitter,Cannot imagine my life without the Blue Light Glasses now. So useful.,Twitter,Eyewear,Blue Light Glasses,positive
+2025-11-27,News,Expected more from the Air Purifier. Build quality is poor.,News,Home,Air Purifier,negative
+2025-11-28,Twitter,The Sleep Tracker is okay. Nothing exceptional but gets the job done.,Twitter,Health,Sleep Tracker,neutral
+2025-12-02,YouTube,The Compression Socks is okay. Nothing exceptional but gets the job done.,YouTube,Health,Compression Socks,neutral
+2025-12-04,Reddit,The AI Earbuds app is intuitive and the hardware is solid.,Reddit,Audio,AI Earbuds,positive
+2025-12-04,News,My Standing Desk arrived damaged. Customer service was unhelpful.,News,Office,Standing Desk,negative
+2025-12-05,YouTube,Just got the Smart Glasses and I am already obsessed. Game changer!,YouTube,Wearables,Smart Glasses,positive
+2025-12-06,Twitter,Cannot imagine my life without the Portable Solar Panel now. So useful.,Twitter,Green Tech,Portable Solar Panel,positive
+2025-12-08,Flipkart,The Mini Projector is trending for a reason it is brilliant!,Flipkart,Electronics,Mini Projector,positive
+2025-12-08,Amazon,Sleep Tracker works flawlessly. Highly recommend to everyone!,Amazon,Health,Sleep Tracker,positive
+2025-12-09,YouTube,The Dog GPS Tracker app is intuitive and the hardware is solid.,YouTube,Pet Tech,Dog GPS Tracker,positive
+2025-12-10,Reddit,Expected more from the Wireless Charger. Build quality is poor.,Reddit,Electronics,Wireless Charger,negative
+2025-12-11,Flipkart,Just got the Eco Water Bottle and I am already obsessed. Game changer!,Flipkart,Lifestyle,Eco Water Bottle,positive
+2025-12-11,YouTube,Air Fryer works flawlessly. Highly recommend to everyone!,YouTube,Kitchen,Air Fryer,positive
+2025-12-11,Reddit,I absolutely love my new Blue Light Glasses! It changed my daily routine completely.,Reddit,Eyewear,Blue Light Glasses,positive
+2025-12-13,Flipkart,The Smart Glasses is worth every rupee. Quality is top notch.,Flipkart,Wearables,Smart Glasses,positive
+2025-12-13,Twitter,I absolutely love my new Smart Water Bottle! It changed my daily routine completely.,Twitter,Health,Smart Water Bottle,positive
+2025-12-13,News,Best purchase of the year the Air Purifier is incredible value for money.,News,Home,Air Purifier,positive
+2025-12-13,News,The Robot Vacuum app is intuitive and the hardware is solid.,News,Home Automation,Robot Vacuum,positive
+2025-12-13,News,Cannot imagine my life without the AI Earbuds now. So useful.,News,Audio,AI Earbuds,positive
+2025-12-13,Reddit,My Bamboo Toothbrush arrived damaged. Customer service was unhelpful.,Reddit,Eco Living,Bamboo Toothbrush,negative
+2025-12-14,Flipkart,UV Sanitizer seems to be everywhere lately. Curious to understand why.,Flipkart,Health,UV Sanitizer,neutral
+2025-12-14,Reddit,The Noise Cancelling Earbuds is worth every rupee. Quality is top notch.,Reddit,Audio,Noise Cancelling Earbuds,positive
+2025-12-18,Flipkart,The LED Strip Lights is worth every rupee. Quality is top notch.,Flipkart,Home,LED Strip Lights,positive
+2025-12-19,Flipkart,The Smart Insole battery life is terrible. Very disappointed.,Flipkart,Wearables,Smart Insole,negative
+2025-12-19,Amazon,The Compression Socks is okay. Nothing exceptional but gets the job done.,Amazon,Health,Compression Socks,neutral
+2025-12-19,News,Air Purifier seems to be everywhere lately. Curious to understand why.,News,Home,Air Purifier,neutral
+2025-12-22,YouTube,The Smart Water Bottle exceeded all my expectations. 5 stars!,YouTube,Health,Smart Water Bottle,positive
+2025-12-22,Amazon,Gifted the Ergonomic Chair to my friend and they loved it too!,Amazon,Office,Ergonomic Chair,positive
+2025-12-25,YouTube,Expected more from the AI Camera. Build quality is poor.,YouTube,Photography,AI Camera,negative
+2025-12-26,Reddit,Gifted the Plant-based Protein to my friend and they loved it too!,Reddit,Nutrition,Plant-based Protein,positive
+2025-12-26,Twitter,Do not waste money on the UV Sanitizer. Better alternatives exist.,Twitter,Health,UV Sanitizer,negative
+2025-12-26,News,The Mini Projector is decent. Has pros and cons. Will update later.,News,Electronics,Mini Projector,neutral
+2025-12-27,Amazon,The Wireless Charger is trending for a reason it is brilliant!,Amazon,Electronics,Wireless Charger,positive
+2025-12-27,Reddit,The Posture Corrector is trending for a reason it is brilliant!,Reddit,Health,Posture Corrector,positive
+2025-12-28,Amazon,Expected more from the Dog GPS Tracker. Build quality is poor.,Amazon,Pet Tech,Dog GPS Tracker,negative
+2025-12-29,YouTube,Trying out the Plant-based Protein for a month before giving full review.,YouTube,Nutrition,Plant-based Protein,neutral
+2025-12-31,Amazon,The Dog GPS Tracker app is intuitive and the hardware is solid.,Amazon,Pet Tech,Dog GPS Tracker,positive
+2025-12-31,Twitter,Just got the Blue Light Glasses and I am already obsessed. Game changer!,Twitter,Eyewear,Blue Light Glasses,positive
